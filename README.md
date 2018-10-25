@@ -21,6 +21,10 @@
         
         e 12345
         
+    To encode multiple key (seperate key with comma) 
+        
+         e 12345,12345,12345 
+        
     to decode a key
         
         d TG9jYXRpb246MTM1OTk=                      
